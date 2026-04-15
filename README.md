@@ -40,8 +40,7 @@ Built with TensorFlow/Keras and trained on the Kaggle Cat vs Dog dataset.
 ## 📸 Application Screenshots
 
 ### 📊 Prediction Output
-![Prediction](images/cat.png)
-
+![Cat Image](cat.png)
 
 ## 🛠️ Technologies Used
 
