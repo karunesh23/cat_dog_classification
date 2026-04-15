@@ -64,12 +64,16 @@ Built with TensorFlow/Keras and trained on the Kaggle Cat vs Dog dataset.
 3. Upload your kaggle.json file (Kaggle API key) in the first cell
 4. Run all cells
 
-👨‍💻 Author
-Karunesh Bansal
-📧 Email: karuneshbansal53@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/karunesh-bansal
+## 👨‍💻 Author
 
-🔮 Future Improvements
+**Karunesh Bansal**
+
+📧 **Email:** karuneshbansal53@gmail.com  
+
+💼 **LinkedIn:**  
+[https://www.linkedin.com/in/karunesh-bansal](https://www.linkedin.com/in/karunesh-bansal)
+
+## 🔮 Future Improvements
 
 Fine-tuning the ResNet50 base model
 Experiment with EfficientNet / MobileNetV2
@@ -77,5 +81,5 @@ Add Learning Rate Scheduler & Early Stopping
 Model deployment using TensorFlow Lite / Flask / FastAPI
 Create a web app for real-time prediction
 
-⭐ Show Your Support
-If you found this project helpful, please give it a star ⭐!
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
